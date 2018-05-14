@@ -14,7 +14,7 @@
 - **Population**: 15,590
 - **Density**: 38,098 per square mile
 
-![Map of Jamaica Hills](/master/JamaicaHillsMap.png)
+![Image](/blob/master/JamaicaHillsMap.png)
 
 
 Here's a link to the JSON Map of Jamaica Hills from HC 6:
