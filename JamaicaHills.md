@@ -6,19 +6,16 @@
 
 ```markdown
 
-- *Zip*: 11432
+- **Zip**: 11432
 - MSA/MD Code: 35614
 - State Code: 36
 - County Code: 081
 - Tract Code: 0454.00
-- *Population*: 15,590
-- *Density*: 38,098 per square mile
+- **Population**: 15,590
+- **Density**: 38,098 per square mile
 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
