@@ -11,9 +11,9 @@ Saim Siddiqui
 - **Density**: 38,098 per square mile
 
 
-![Map of Jamaical Hills](saimsiddiqui218/saimcsci127/blob/master/JamaicaHillsMap.png)
-![Stat Map of Jamaical Hills](saimsiddiqui218/saimcsci127/blob/master/JamaicaHillsStat.png)
-![Zone Map of Jamaical Hills](saimsiddiqui218/saimcsci127/blob/master/JamaicaHillsZones.png)
+![Map of Jamaical Hills](/JamaicaHillsMap.png)
+![Stat Map of Jamaical Hills](/JamaicaHillsStat.png)
+![Zone Map of Jamaical Hills](/JamaicaHillsZones.png)
 
 
 Here's a link to the JSON Map of Jamaica Hills from [HC 6](https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson):
