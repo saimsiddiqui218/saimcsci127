@@ -10,10 +10,15 @@ Saim Siddiqui
 - **Population**: 15,590
 - **Density**: 38,098 per square mile
 
+Here's a breakdown of the demographic:
+
+![Demographic](/JamaicaHillsDemo.png)
+
 
 ![Map of Jamaical Hills](/JamaicaHillsMap.png)
-![Stat Map of Jamaical Hills](/JamaicaHillsStat.png)
+![Satellite Map of Jamaical Hills](/JamaicaHillsSat.png)
 ![Zone Map of Jamaical Hills](/JamaicaHillsZones.png)
+
 
 
 Here's a link to the JSON Map of Jamaica Hills from [HC 6](https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson):
