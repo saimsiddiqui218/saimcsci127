@@ -16,6 +16,8 @@
 
 
 
+Here's a link to the JSON Map of Jamaica Hills from HC 6:
+https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson
 
 [Link](url) and ![Image](src)
 ```
