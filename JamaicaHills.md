@@ -1,10 +1,6 @@
 ## Jamaica Hills
 
-
-### Breakdown
-
-
-```markdown
+Saim Siddiqui
 
 - **Zip**: 11432
 - MSA/MD Code: 35614
@@ -14,20 +10,10 @@
 - **Population**: 15,590
 - **Density**: 38,098 per square mile
 
-![Map of Jamaical Hills](/blob/master/JamaicaHillsMap.png)
-![Stat Map of Jamaical Hills](/blob/master/JamaicaHillsStat.png)
-![Zone Map of Jamaical Hills](/blob/master/JamaicaHillsZones.png)
 
-
-Here's a link to the JSON Map of Jamaica Hills from [HC 6](https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson):
-https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson
-
-[Link](url) and ![Image](src)
-```
-
-![Map of Jamaical Hills](/blob/master/JamaicaHillsMap.png)
-![Stat Map of Jamaical Hills](/blob/master/JamaicaHillsStat.png)
-![Zone Map of Jamaical Hills](/blob/master/JamaicaHillsZones.png)
+![Map of Jamaical Hills](saimsiddiqui218/saimcsci127/blob/master/JamaicaHillsMap.png)
+![Stat Map of Jamaical Hills](saimsiddiqui218/saimcsci127/blob/master/JamaicaHillsStat.png)
+![Zone Map of Jamaical Hills](saimsiddiqui218/saimcsci127/blob/master/JamaicaHillsZones.png)
 
 
 Here's a link to the JSON Map of Jamaica Hills from [HC 6](https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson):
