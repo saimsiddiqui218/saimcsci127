@@ -59,6 +59,10 @@ EDC     |    1
 
 The following are Satellite and Zone maps of Jamaica Hills
 
+As can be seen in the pictures, Jamaica Hill is already at capacity for its current zoning regulations. Unfortunately, we will be unable to add any additional housing, and Mayor De Blasio will have to look elsewhere. It entirely consists of residential zones. The R3 and R4 zones are already maxed out with the attached and semi-detached 1-story and 2-story houses they are allowed to have, and the R5 zone already has more than enough apartments buildings. We can't utilize the commmercial zones because they don't fall within the bounds of Jamaica Hills, although that would be a pertinent solution.
+
+As far as additional services goes, Jamaica Hills is already a hub, with a 100 transit score, and a walkability of 92, not to mention the abundance of educational institutions. There are hospitals and clinics nearby, and there are very few sanitation complaints, meaning the DOS is doing their job well. Issues like noise complaint, heat/hot water, and parking, can be solved systematically on a case by case basis, no need to change it institutionally. In conclusion: We're good as is!
+
 ![Satellite Map of Jamaical Hills](/JamaicaHillsSat.png)
 ![Zone Map of Jamaical Hills](/JamaicaHillsZones.png)
 
