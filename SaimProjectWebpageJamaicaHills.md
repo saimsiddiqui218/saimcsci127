@@ -24,5 +24,9 @@ Here's a breakdown of the demographic:
 Here's a link to the JSON Map of Jamaica Hills from [HC 6](https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson):
 https://github.com/saimsiddiqui218/saimcsci127/blob/master/map.geojson
 
+Additionally, you can see a screenshot of the JSON map here:
+
+![JSON Map of Jamaical Hills](/JamaicaHillsJson.png)
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
